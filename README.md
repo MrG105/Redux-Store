@@ -20,7 +20,8 @@
 
   ## Installation  
   ### The application will be invoked by using the following command:  
-      visit the deployed website: <https://shrouded-journey-51629.herokuapp.com/>  
+      visit the deployed website: 
+      <https://shrouded-journey-51629.herokuapp.com/>  
 
   ## Usage  
   ![screenshot](assets/images/screenshot.PNG)  
