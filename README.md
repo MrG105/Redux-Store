@@ -1,5 +1,4 @@
 # <Week 22: State Homework: Redux Store>  
-  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
   ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)  
 
   ## Description  
@@ -21,7 +20,7 @@
   ## Installation  
   ### The application will be invoked by using the following command:  
       visit the deployed website: 
-      <https://shrouded-journey-51629.herokuapp.com/>  
+      <https://shrouded-journey-51629.herokuapp.com>  
 
   ## Usage  
   ![screenshot](assets/images/screenshot.PNG)  
